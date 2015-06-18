@@ -1,2 +1,2 @@
-# Practical_Machine_Learning
-Practical Machine Learning Project
+# Practical Machine Learning Project
+Iván Díaz
